@@ -1,0 +1,39 @@
+body {
+  background: black;
+  color: white;
+  font-family: arial;
+  background-image: url(../img/background.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+h1 {
+  font-size: 75px;
+  color: #39e600;
+}
+
+h1, .subtit {
+  text-align: center;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+img {
+  max-width: 200px;
+}
+
+ul {
+  list-style: none;
+}
+
+.green {
+  text-transform: uppercase;
+  color: #39e600;
+}
